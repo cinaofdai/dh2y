@@ -11,4 +11,4 @@
 
         4.修改数据库配置：D:\data\wwwroot\web\test\dh2y-yii2\common\config    main-local.php 修改对应数据库
 
-        5.导入数据库：数据库在解压文件的根目录dh2y-yii2.sql
+        5.导入数据库：数据库在解压文件的data目录下面dh2y-yii2.sql
